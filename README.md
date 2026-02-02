@@ -7,7 +7,7 @@ The system combines **secure Java microservices** with a **modern React front en
 
 ---
 
-## 🚀 Key Capabilities
+##  Key Capabilities
 
 - Secure API Gateway with JWT-based authentication
 - Java Spring Boot microservices architecture
@@ -29,7 +29,7 @@ The system combines **secure Java microservices** with a **modern React front en
 - Agile / Jira usage
 ---
 
-## 🧠 System Architecture 
+##  System Architecture 
 
 +------------------------+        HTTPS/JWT         +------------------------+
 |      React Front-End   | <---------------------> |    API Gateway (Java)   |
