@@ -106,3 +106,27 @@ Optional future Kubernetes deployment possible.
 Unit Testing: JUnit (Java) + Jest (React)
 UI Automation: Selenium
 Ensures end-to-end quality across services.
+
+
+##  Running the Project Locally
+
+### Prerequisites
+- Java 17+
+- Node.js 18+
+- Docker & Docker Compose
+
+### Start Backend Services
+```bash
+cd backend
+docker-compose up --build
+
+### Start Frontend
+
+cd frontend/a11ypulse-ui
+npm install
+npm start
+
+Frontend runs at: http://localhost:3000
+API Gateway runs at: http://localhost:8080
+
+
